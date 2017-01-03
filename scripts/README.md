@@ -48,3 +48,8 @@ python create-order.py --record my-order-video.mp4
 
 Audio clips
 ===========
+
+Creating entropy music
+----------------------
+
+The [`create-entropy-music.py`](create-entropy-music.py) script is the [generate melodies example from Pyo](https://github.com/belangeo/pyo#examples) modified to record a .wav file. Some example generated output can be found in the [`entropy.wav`](entropy.wav) file.
