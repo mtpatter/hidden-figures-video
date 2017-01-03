@@ -57,6 +57,17 @@ The galaxy visualization in [`galaxy-zoom.py`](galaxy-zoom.py) is modified from 
 python galaxy-zoom.py --record my-galaxy-video.mp4
 ```
 
+Earth zoom out visualization
+----------------------------
+
+![galaxy](/images/earth-viz.png)
+
+The earth zoom out visualization in [`earth-viz.py`](earth-viz.py) is modified from Glumpy's earth.py example to use colors I like better and get rid of the capital labels and markers. While recording, you can use your mouse to zoom in and move around the globe.
+
+```
+python earth-viz.py --record my-earth-video.mp4
+```
+
 Audio clips
 ===========
 
