@@ -19,4 +19,4 @@ The audio clip of 'entropy' is randomly generated notes using the very nice `Pyo
 
 ### Code
 
-Instructions and scripts can be found in the `scripts` directory.
+Instructions and scripts can be found in the [`scripts`](scripts) directory.
