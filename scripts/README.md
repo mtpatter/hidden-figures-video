@@ -4,7 +4,7 @@
 
 ![terminal](/images/terminal.png)
 
-The console in `terminal.py` is modified from Glumpy's gloo-terminal.py script. It will read whatever is in the local file `commands.txt`, which must be created first. To record as mp4, add the flag --record and your desired output file name.
+The console in `terminal.py` is modified from Glumpy's gloo-terminal.py example. It will read whatever is in the local file `commands.txt`, which must be created first. To record as mp4, add the flag --record and your desired output file name.
 
 ```
 python terminal.py --record my-terminal-video.mp4
@@ -20,6 +20,16 @@ For a fast response, like an error message, just add an echo command.
 
 ```
 python slowtyper.py typing.txt && echo "no i'm typing" >> commands.txt
+```
+
+#### Creating entropy visualization
+
+![entropy](/images/create-entropy.png)
+
+The viz in `create-entropy.py` is modified from Glumpy's collection-point.py example for a black background.
+
+```
+python create-entropy.py --record my-entropy-video.mp4
 ```
 
 ### Audio clips
