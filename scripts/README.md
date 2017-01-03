@@ -75,3 +75,22 @@ Creating entropy music
 ----------------------
 
 The [`create-entropy-music.py`](create-entropy-music.py) script is the [generate melodies example from Pyo](https://github.com/belangeo/pyo#examples) modified to record a .wav file. Some example generated output can be found in the [`entropy.wav`](entropy.wav) file.
+
+Other data
+==========
+
+Galaxy NGC 4258
+---------------
+
+![ngc 4258](/images/ngc-4258.png)
+
+This is a 3-color image I made of the galaxy NGC 4258 with U, B, and R band imaging data from my thesis work using the Kitt Peak 4-meter Mosaic instrument. If you use it, please credit me (Maria Patterson) and consider citing [my dissertation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x1kZj8MAAAAJ&citation_for_view=x1kZj8MAAAAJ:YsMSGLbcyi4C).
+
+Dwarf planet Ceres
+------------------
+
+| Ceres first image             | Ceres later image             |
+|-------------------------------|-------------------------------|
+| ![ceres1](/images/ceres1.png) | ![ceres2](/images/ceres2.png) |
+
+These images are made from .fits files from the following query for data on Ceres from the [Near Earth Object (NEO) Survey Search Tool](http://sbntools.psi.edu/neosearch/TargetQuery/form.action): http://sbntools.psi.edu/neosearch/TargetQuery/results.action?startDate=19960417&endDate=20030311&targetName=ceres
