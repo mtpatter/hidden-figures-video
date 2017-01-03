@@ -46,6 +46,17 @@ The viz in [`create-order.py`](create-order.py) is essentially the same as the e
 python create-order.py --record my-order-video.mp4
 ```
 
+Galaxy zoom visualization
+-------------------------
+
+![galaxy](/images/galaxy-zoom.png)
+
+The galaxy visualization in [`galaxy-zoom.py`](galaxy-zoom.py) is modified from Glumpy's galaxy.py example to zoom in to a wee white dot and then create a galaxy spinning at an angle and requires local access to the `galaxy` directory distributed with that example.
+
+```
+python galaxy-zoom.py --record my-galaxy-video.mp4
+```
+
 Audio clips
 ===========
 
