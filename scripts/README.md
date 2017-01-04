@@ -68,6 +68,17 @@ The earth zoom out visualization in [`earth-viz.py`](earth-viz.py) is modified f
 python earth-viz.py --record my-earth-video.mp4
 ```
 
+Brain visualization
+-------------------
+
+![galaxy](/images/brain-viz.png)
+
+The brain visualization in [`brain-viz.py`](brain-viz.py) is just Glumpy's brain.py example modified to show a white background instead of the default black.
+
+```
+python brain-viz.py --record my-brain-video.mp4
+```
+
 Audio clips
 ===========
 
